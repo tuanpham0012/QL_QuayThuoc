@@ -1,0 +1,13 @@
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.Properties.Resources.resources
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.csproj.GenerateResource.Cache
+E:\C#\Minishop\Minishop\bin\Debug\Minishop.exe
+E:\C#\Minishop\Minishop\bin\Debug\Minishop.pdb
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.exe
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.pdb
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.csprojResolveAssemblyReference.cache
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.SanPham.resources
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.TrangChu.resources
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.ThemSP.resources
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.SuaSP.resources
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.XoaSP.resources
+E:\C#\Minishop\Minishop\obj\x86\Debug\Minishop.DangNhap.resources
